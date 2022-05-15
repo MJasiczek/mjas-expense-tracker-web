@@ -1,0 +1,21 @@
+.transaction{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+    position: relative;
+    margin-top:20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc9c9;
+    
+}
+.transaction_text{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;;
+   font-size: 14px;
+   font-weight: 300;
+   letter-spacing: 1px;
+    position: relative;
+    width: 100%;
+    
+}
